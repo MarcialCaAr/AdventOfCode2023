@@ -1,0 +1,375 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Day23",
+            "request": "launch",
+            "mainClass": "day23.Day23",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day23_2",
+            "request": "launch",
+            "mainClass": "day23.Day23_2",
+            "projectName": "AdventOfCode2023_831b0f4",
+            "vmArgs": "-Xss1g"
+        },
+        {
+            "type": "java",
+            "name": "Day23",
+            "request": "launch",
+            "mainClass": "day23.Day23",
+            "projectName": "AdventOfCode2023_831b0f4"
+        },
+        {
+            "type": "java",
+            "name": "Day22_2",
+            "request": "launch",
+            "mainClass": "day22.Day22_2",
+            "projectName": "AdventOfCode2023_831b0f4"
+        },
+        {
+            "type": "java",
+            "name": "Day22",
+            "request": "launch",
+            "mainClass": "day22.Day22",
+            "projectName": "AdventOfCode2023_831b0f4"
+        },
+        {
+            "type": "java",
+            "name": "Day22",
+            "request": "launch",
+            "mainClass": "day22.Day22",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day18_copy",
+            "request": "launch",
+            "mainClass": "day18.Day18_copy",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day18",
+            "request": "launch",
+            "mainClass": "day18.Day18",
+            "projectName": "AdventOfCode2023_af3556a5",
+            "vmArgs": "-Xss1g"
+        },
+        {
+            "type": "java",
+            "name": "Day20_2",
+            "request": "launch",
+            "mainClass": "day20.Day20_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day20",
+            "request": "launch",
+            "mainClass": "day20.Day20",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day16_2",
+            "request": "launch",
+            "mainClass": "day16.Day16_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day16",
+            "request": "launch",
+            "mainClass": "day16.Day16",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day15_2",
+            "request": "launch",
+            "mainClass": "day15.Day15_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "Day15",
+            "request": "launch",
+            "mainClass": "day15.Day15",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day15",
+            "request": "launch",
+            "mainClass": "day15.day15",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day14_2",
+            "request": "launch",
+            "mainClass": "day14.day14_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day14",
+            "request": "launch",
+            "mainClass": "day14.day14",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day12_2copy",
+            "request": "launch",
+            "mainClass": "day12.day12_2copy",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day12_2",
+            "request": "launch",
+            "mainClass": "day12.day12_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day12_copy",
+            "request": "launch",
+            "mainClass": "day12.day12_copy",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day12",
+            "request": "launch",
+            "mainClass": "day12.day12",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day13_2",
+            "request": "launch",
+            "mainClass": "day13.day13_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day13",
+            "request": "launch",
+            "mainClass": "day13.day13",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day11_2",
+            "request": "launch",
+            "mainClass": "day11.day11_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day11",
+            "request": "launch",
+            "mainClass": "day11.day11",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day10copy",
+            "request": "launch",
+            "mainClass": "day10.day10copy",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day10_22_copy",
+            "request": "launch",
+            "mainClass": "day10.day10_22_copy",
+            "projectName": "AdventOfCode2023_af3556a5",
+            "vmArgs": "-Xss4m"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "day1",
+            "request": "launch",
+            "mainClass": "day1.day1",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day1_2",
+            "request": "launch",
+            "mainClass": "day1.day1_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "testOpener",
+            "request": "launch",
+            "mainClass": "day1.testOpener",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day10",
+            "request": "launch",
+            "mainClass": "day10.day10",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day10_2",
+            "request": "launch",
+            "mainClass": "day10.day10_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day10_22",
+            "request": "launch",
+            "mainClass": "day10.day10_22",
+            "projectName": "AdventOfCode2023_af3556a5",
+            "vmArgs": "-Xss4m"
+        },
+        {
+            "type": "java",
+            "name": "day2",
+            "request": "launch",
+            "mainClass": "day2.day2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day2_2",
+            "request": "launch",
+            "mainClass": "day2.day2_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day3",
+            "request": "launch",
+            "mainClass": "day3.day3",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day3_2",
+            "request": "launch",
+            "mainClass": "day3.day3_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4.day4",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day4_2",
+            "request": "launch",
+            "mainClass": "day4.day4_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day5",
+            "request": "launch",
+            "mainClass": "day5.day5",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day5_2",
+            "request": "launch",
+            "mainClass": "day5.day5_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day5_2_multithread",
+            "request": "launch",
+            "mainClass": "day5.day5_2_multithread",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day5_bad",
+            "request": "launch",
+            "mainClass": "day5.day5_bad",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "rangesTest",
+            "request": "launch",
+            "mainClass": "day5.rangesTest",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day6",
+            "request": "launch",
+            "mainClass": "day6.day6",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day6_2",
+            "request": "launch",
+            "mainClass": "day6.day6_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day7",
+            "request": "launch",
+            "mainClass": "day7.day7",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day7_2",
+            "request": "launch",
+            "mainClass": "day7.day7_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day8",
+            "request": "launch",
+            "mainClass": "day8.day8",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day8_2",
+            "request": "launch",
+            "mainClass": "day8.day8_2",
+            "projectName": "AdventOfCode2023_af3556a5"
+        },
+        {
+            "type": "java",
+            "name": "day9",
+            "request": "launch",
+            "mainClass": "day9.day9",
+            "projectName": "AdventOfCode2023_af3556a5"
+        }
+    ]
+}

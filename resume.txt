@@ -1,0 +1,17 @@
+day 1: (String analysing) numbers in words, first and last
+day 2: (map analysis) quantity of cubes of colors / get minimun qunatity of cubes per game
+day 3: (2D array analysis) get number adjacent to symbol / get numbers adjacent to '*' symbol
+day 4: (String analysis) lotery tickets
+day 5: (foreach multithread, multiple changes) seeds location planting
+day 6: (cuadratic formula, brute force) beating boat waiting
+day 7: (custom sorting function) camel poker
+day 8: (map oriented steps, LCM) linked steps on instructions
+day 9: (sub arrays analysis) get next number on sequence
+day 10: (flood-fill, aument stack size for thread for recursive method) pipes loop and insideout of loop
+day 11: (stream api to get 2d array) distance bettween galaxies
+day 12: (combination theory) damaged springs and arrangements of them
+day 13: mirrors
+day 14: (coping of 2d arrays) moving rocks on platform
+day 15: (stream input, atomic integer in lamda functions) labels, boxes and focal length
+day 16: (2d array stream, multithread) energized cells, mirror and light beams
+day 20: (LCM, module class) flip-flop, conjunction, low and high pulses
